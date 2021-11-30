@@ -1,17 +1,18 @@
 # qiapiao
-另一个QQ飞车卡漂项目,开发初衷仅是不想看[STY大佬的爱情故事弹窗](https://github.com/StyGame/kapiao)
+另一个QQ飞车卡漂项目
+~~开发初衷仅是不想看[STY大佬的爱情故事弹窗](https://github.com/StyGame/kapiao) 他的讽刺只会让我更加坚定于开发这个项目!~~
 
-他的讽刺只会让我更加坚定于开发这个项目!
+你好!对于某人那些让部分玩家反感的爱情弹窗,所计划制作的重新开发,直到他允许选择不弹出也表示弹窗写的不是人名.好了已经够了!我也被当作恶心人,现在是时候 Say goodbye 了!
+详细了解: <https://github.com/StyGame/kapiao/issues/1>
+
+你也可以继续使用直到特征码搜索失效将不再提供新版本.
+之后你也可以使用他的版本: <https://github.com/StyGame/kapiao>
 
 ## 使用方法
-1.点击下载这个文件 [QUSEREX.dll](https://github.com/qiabug/qiapiao/raw/main/QUSEREX.dll)
-
-2.把这个文件复制到 QQ飞车 的 Releasephysx27 目录。
+下载此文件 [QUSEREX.dll](https://github.com/qiabug/qiapiao/raw/main/QUSEREX.dll) 并保存到 QQ飞车 的 Releasephysx27 目录.
 
 ----
-1.download the file [QUSEREX.dll](https://github.com/qiabug/qiapiao/raw/main/QUSEREX.dll)
-
-2.Copy the file to Releasephysx27 directory of QQSpeed.
+Download this file [QUSEREX.dll](https://github.com/qiabug/qiapiao/raw/main/QUSEREX.dll) and save to the Releasephysx27 directory of QQSpeed.
 
 ## 更新
 ### 2021.11.27
